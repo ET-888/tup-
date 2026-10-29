@@ -1,0 +1,3 @@
+/home/et/桌面/ws/build/CMakeFiles/opencv_camera.dir
+/home/et/桌面/ws/build/CMakeFiles/edit_cache.dir
+/home/et/桌面/ws/build/CMakeFiles/rebuild_cache.dir
